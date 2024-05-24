@@ -1,0 +1,20 @@
+{
+    "奶油奶酪": {"amount": 500, "price": 10.0},
+    "淡奶油": {"amount": 600, "price": 6.0},
+    "蛋黄": {"amount": 30, "price": 10.5},
+    "蛋白": {"amount": 30, "price": 10.5},
+    "白砂糖": {"amount": 2000, "price": 3},
+    "玉米淀粉": {"amount": 500, "price": 2.25},
+    "牛奶": {"amount": 3000, "price": 4.5},
+    "肉松": {"amount": 1, "price": 9.75},
+    "炼乳": {"amount": 395, "price": 3.8},
+    "丘比沙拉酱": {"amount": 500, "price": 8},
+    "低筋面粉": {"amount": 1000, "price": 4},
+    "无糖豆浆": {"amount": 300, "price": 2},
+    "黄豆粉": {"amount": 500, "price": 5.75},
+    "芋头": {"amount": 300, "price": 5},
+    "紫薯": {"amount": 300, "price": 5},
+    "红薯": {"amount": 300, "price": 5},
+    "木薯淀粉": {"amount": 500, "price": 1.7},
+    "玉米油": {"amount": 1000, "price": 8}
+}
